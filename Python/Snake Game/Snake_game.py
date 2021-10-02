@@ -3,6 +3,7 @@ import random
 # initializing pygame
 pygame.init()
 
+print('Welcome, hope you  enjoy this Game...')
 # Colors
 white = (255, 255, 255) # rgb format
 red = (255, 0, 0)
